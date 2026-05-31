@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchsalculate",
+        "uuid": 30759290,
+        "checksum": "d1adza"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
